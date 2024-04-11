@@ -22,7 +22,6 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { createUser } from '@/app/actions'
 import UserSocialSigninModal from './UserSocialSigninModal'
-// import UserSocialModal from './UserSocialModal'
 
 const UserSignUpModal = ({ children }: { children: ReactNode}) => {
 
