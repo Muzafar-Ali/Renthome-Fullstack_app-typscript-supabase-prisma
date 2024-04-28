@@ -1,32 +1,32 @@
 # Features
 
-#### User Interface and Experience
-1. Reservation System
-2. Filter Bar
-3. Multi Step Search Modal
-4. Multi Step Form Listing Creation
-5. Dynamic Map Implementation
-6. Calendar Implementation
-7. lazy loading
-8. Streaming with Suspense Boundaries
-9. Pending States
-10. Caching
-11. Server side implementation
-12. validating user input with zod (uer registration, sign in and Home Creation)
+## User Interface and Experience Features
+* Reservation System
+* Filter Bar
+* Multi Step Search Modal
+* Multi Step Form Listing Creation
+* Dynamic Map Implementation
+* Calendar Implementation
+* lazy loading
+* Streaming with Suspense Boundaries
+* Pending States
+* Caching
+* Server side implementation
+* validating user input with zod (uer registration, sign in and Home Creation)
 
-#### Technologies and Frameworks
-13. Next.js 14 App Router
-14. Prisma ORM 
-15. Supabase (Authentication, Database, Storage)
-16. Styling with Tailwindcss and shadcn UI
-17. Zod for Type-Safe Form Validation
+## Technologies and Frameworks Features
+* Next.js 14 App Router
+* Prisma ORM 
+* Supabase (Authentication, Database, Storage)
+* Styling with Tailwindcss and shadcn UI
+* Zod for Type-Safe Form Validation
 
-#### Authentication and Security
-18. Passwordless Auth
-19. OAuth (Google and Facebook)
+## Authentication and Security Features
+* Passwordless Auth
+* OAuth (Google and Facebook)
 
 
-#### Deployment and Optimization Features
-20. Deployment to Vercel
-21. Speed optimization
-22. Authentication with customized login page
+## Deployment and Optimization Features
+* Deployment to Vercel
+* Speed optimization
+* Authentication with customized login page
