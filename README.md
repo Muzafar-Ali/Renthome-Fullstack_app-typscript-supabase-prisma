@@ -1,6 +1,15 @@
-# Features
 
-## User Interface and Experience Features
+## Tech Stack
+* Framewokr: [Next.js 14](https://nextjs.org/docs)
+* ORM: [Prisma](https://www.prisma.io/)
+* Databas, Authentication & storage: [Supabase](https://supabase.com/)
+* Styling: [Tailwindcss](https://tailwindcss.com/)
+* UI component: [shadcn UI](https://ui.shadcn.com/docs)
+* Form Validation:  [Zod](https://zod.dev/) for Type-Safe Form Validation
+
+## Features
+
+### User Interface and Experience Features
 * Reservation System
 * Filter Bar
 * Multi Step Search Modal
@@ -14,20 +23,14 @@
 * Server side implementation
 * validating user input with zod (uer registration, sign in and Home Creation)
 
-## Tech Stack
-* Framewokr: [Next.js 14](https://nextjs.org/docs)
-* ORM: [Prisma](https://www.prisma.io/)
-* Databas, Authentication & storage: [Supabase](https://supabase.com/)
-* Styling: [Tailwindcss](https://tailwindcss.com/)
-* UI component: [shadcn UI](https://ui.shadcn.com/docs)
-* Form Validation:  [Zod](https://zod.dev/) for Type-Safe Form Validation
 
-## Authentication and Security Features
+### Authentication and Security Features
 * Passwordless Auth
 * OAuth (Google and Facebook)
 
 
-## Deployment and Optimization Features
+### Deployment and Optimization Features
 * Deployment to Vercel
 * Speed optimization
 * Authentication with customized login page
+*****
