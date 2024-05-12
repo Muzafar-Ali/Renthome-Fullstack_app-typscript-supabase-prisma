@@ -1,10 +1,10 @@
 
 ## Tech Stack
-* Framewokr: [Next.js 14](https://nextjs.org/docs)
+* Framework: [Next.js 14](https://nextjs.org/docs)
 * ORM: [Prisma](https://www.prisma.io/)
-* Databas, Authentication & storage: [Supabase](https://supabase.com/)
+* Database, Authentication & Storage: [Supabase](https://supabase.com/)
 * Styling: [Tailwindcss](https://tailwindcss.com/)
-* UI component: [shadcn UI](https://ui.shadcn.com/docs)
+* UI Component: [shadcn UI](https://ui.shadcn.com/docs)
 * Form Validation:  [Zod](https://zod.dev/) for Type-Safe Form Validation
 
 ## Features
