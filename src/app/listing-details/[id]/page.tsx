@@ -37,7 +37,7 @@ const ListingDetails = async({ params }: { params: { id: string } }) => {
       <div className="flex flex-col md:flex-row justify-between gap-x-24 mt-8">
         <div className="w-full xl:w-2/3">
           <h3 className="text-base md:text-xl font-medium">
-            {country?.flag} {country?.label} / {country?.region}
+            {country?.label} / {country?.region}
           </h3>
           <div className="flex items-center gap-x-2 text-muted-foreground">
             <p className='text-sm md:text-base'>{listing?.guests} guests</p>
@@ -51,11 +51,13 @@ const ListingDetails = async({ params }: { params: { id: string } }) => {
           </div>
 
           <div className="flex items-center mt-6">
-            <img
+            <Image
               src={
                 listing?.User?.profileImage ??
                 "https://static.vecteezy.com/system/resources/thumbnails/009/292/244/small/default-avatar-icon-of-social-media-user-vector.jpg"
               }
+              width={50}
+              height={50}
               alt="User Profile"
               className="w-8 md:w-11 h-8 md:h-11 rounded-full"
             />

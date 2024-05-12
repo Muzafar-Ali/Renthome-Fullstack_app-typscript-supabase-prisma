@@ -104,7 +104,7 @@ const UserSignUpModal = ({ children }: { children: ReactNode}) => {
             <ToastContainer/>
           <AlertDialogDescription asChild>
             <form onSubmit={handleSubmit(onSubmitHandle)}>
-              <h1 className="text-lg font-bold">Welcome to Airbnb</h1>
+              <h1 className="text-lg font-bold">Welcome to RentHome</h1>
               <div className="mt-3">
                 <Label htmlFor="firstName">First Name</Label>
                 <Input placeholder="Enter your First Name" id="firstName" {...register("firstName")}/>
