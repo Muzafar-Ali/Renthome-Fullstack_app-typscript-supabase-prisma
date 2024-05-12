@@ -14,12 +14,13 @@
 * Server side implementation
 * validating user input with zod (uer registration, sign in and Home Creation)
 
-## Technologies and Frameworks Features
-* Next.js 14 App Router
-* Prisma ORM 
-* Supabase (Authentication, Database, Storage)
-* Styling with Tailwindcss and shadcn UI
-* Zod for Type-Safe Form Validation
+## Tech Stack
+* Framewokr: [Next.js 14](https://nextjs.org/docs)
+* ORM: [Prisma](https://www.prisma.io/)
+* Databas, Authentication & storage: [Supabase](https://supabase.com/)
+* Styling: [Tailwindcss](https://tailwindcss.com/)
+* UI component: [shadcn UI](https://ui.shadcn.com/docs)
+* Form Validation:  [Zod](https://zod.dev/) for Type-Safe Form Validation
 
 ## Authentication and Security Features
 * Passwordless Auth
